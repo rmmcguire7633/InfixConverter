@@ -1,6 +1,6 @@
 /**
  * prefix
- * Author - n/a
+ * Author - Ryan McGuire
  * Last modified - 01/18/2019
  * copyright info - n/a
  * */
